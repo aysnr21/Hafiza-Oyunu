@@ -1,0 +1,32 @@
+c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.exe.config
+c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.pdb
+c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.Form1.resources
+c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.pdb
+C:\Users\Mustafa\Source\Repos\Basit-Hafiza-Oyunu\HafızaOyunu\bin\Debug\HafızaOyunu.exe.config
+C:\Users\Mustafa\Source\Repos\Basit-Hafiza-Oyunu\HafızaOyunu\obj\Debug\HafızaOyunu.exe
+C:\Users\Mustafa\Source\Repos\Basit-Hafiza-Oyunu\HafızaOyunu\obj\Debug\HafızaOyunu.pdb
+C:\Users\aslan\Downloads\Basit-Hafiza-Oyunu-ergec\Basit-Hafiza-Oyunu-ergec\HafızaOyunu\bin\Debug\HafızaOyunu.exe.config
+C:\Users\aslan\Downloads\Basit-Hafiza-Oyunu-ergec\Basit-Hafiza-Oyunu-ergec\HafızaOyunu\bin\Debug\HafızaOyunu.exe
+C:\Users\aslan\Downloads\Basit-Hafiza-Oyunu-ergec\Basit-Hafiza-Oyunu-ergec\HafızaOyunu\bin\Debug\HafızaOyunu.pdb
+C:\Users\aslan\Downloads\Basit-Hafiza-Oyunu-ergec\Basit-Hafiza-Oyunu-ergec\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.AssemblyReference.cache
+C:\Users\aslan\Downloads\Basit-Hafiza-Oyunu-ergec\Basit-Hafiza-Oyunu-ergec\HafızaOyunu\obj\Debug\HafızaOyunu.Form1.resources
+C:\Users\aslan\Downloads\Basit-Hafiza-Oyunu-ergec\Basit-Hafiza-Oyunu-ergec\HafızaOyunu\obj\Debug\HafızaOyunu.Properties.Resources.resources
+C:\Users\aslan\Downloads\Basit-Hafiza-Oyunu-ergec\Basit-Hafiza-Oyunu-ergec\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.GenerateResource.cache
+C:\Users\aslan\Downloads\Basit-Hafiza-Oyunu-ergec\Basit-Hafiza-Oyunu-ergec\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\aslan\Downloads\Basit-Hafiza-Oyunu-ergec\Basit-Hafiza-Oyunu-ergec\HafızaOyunu\obj\Debug\HafızaOyunu.exe
+C:\Users\aslan\Downloads\Basit-Hafiza-Oyunu-ergec\Basit-Hafiza-Oyunu-ergec\HafızaOyunu\obj\Debug\HafızaOyunu.pdb
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.exe.config
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.exe
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.pdb
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.AssemblyReference.cache
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.Form1.resources
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.Properties.Resources.resources
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.GenerateResource.cache
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.exe
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.pdb
